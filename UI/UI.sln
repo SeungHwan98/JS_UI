@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI.csproj", "{0B6EF06C-DD7F-4F86-8CF9-901E02A87813}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApplication1", "DXApplication1\DXApplication1.csproj", "{C4FF6F26-CCB2-4105-AE6C-1ECA97A91EF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B6EF06C-DD7F-4F86-8CF9-901E02A87813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B6EF06C-DD7F-4F86-8CF9-901E02A87813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B6EF06C-DD7F-4F86-8CF9-901E02A87813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FF6F26-CCB2-4105-AE6C-1ECA97A91EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FF6F26-CCB2-4105-AE6C-1ECA97A91EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FF6F26-CCB2-4105-AE6C-1ECA97A91EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FF6F26-CCB2-4105-AE6C-1ECA97A91EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
